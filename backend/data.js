@@ -1,0 +1,125 @@
+const data = {
+
+  products: [
+    {
+      //_id: '62a524648b6ea04f177868cd',
+      name: 'Pepsi',
+      slug: 'Pepsi',
+      price: 6,
+      image:
+        'https://images.deliveryhero.io/image/darkstores-eg/EGY_6223001360766.JPG',
+      stock: 70,
+      description: 'A soda drink that consists of cola and soda ',
+      weight: 1,
+      measurement: 'L',
+    },
+    {
+      //_id: '62a524648b6ea04f177868ce',
+      name: 'pringles',
+      slug: 'pringles',
+      price: 23,
+      image:
+        'https://nordicexpatshop.com/media/catalog/product/cache/a75b4628650e2182ad447c229a356118/p/r/pringles-hot-spicy.jpeg',
+      stock: 40,
+      description: 'Fried chips with different flavours',
+      weight: 1,
+      measurement: 'pack',
+    },
+    {
+     // _id: '62a524648b6ea04f177868cf',
+      name: 'Sprite',
+      slug: 'Sprite',
+      price: 6,
+      image: 'https://redboxdeluxe.com/wp-content/uploads/2021/01/sprite.png',
+      stock: 0,
+      description: 'A soda drink that cosists of lemon and lime',
+      weight: 1,
+      measurement: 'L',
+    },
+    {
+      //_id: '62a524648b6ea04f177868d0',
+      name: 'Redbull',
+      slug: 'Redbull',
+      price: 35,
+      image: 'https://m.media-amazon.com/images/I/61E28l8RSsL._SX679_.jpg',
+      stock: 30,
+      description: 'Energy drink',
+      weight: 250,
+      measurement: 'ml',
+    },
+    {
+     // _id: '62a524648b6ea04f177868d1',
+      name: 'Snickers',
+      slug: 'Snickers',
+      price: 10,
+      image:
+        'https://www.snickers.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png',
+      stock: 50,
+      description: 'peanuts and caramel chocolate',
+      weight: 90,
+      measurement: 'gm',
+    },
+    {
+      //_id: '62a524648b6ea04f177868d2',
+      name: 'Kitkat',
+      slug: 'Kitkat',
+      price: 10,
+      image:
+        'https://cdnprod.mafretailproxy.com/sys-master-root/h49/h50/27324732604446/533730_2.jpg_480Wx480H',
+      stock: 50,
+      description: 'biscuit chocolate',
+      weight: 40,
+      measurement: 'gm',
+    },
+    {
+     // _id: '62a524648b6ea04f177868d3',
+      name: 'Raw',
+      slug: 'Raw',
+      price: 5,
+      image:
+        'https://cdnprod.mafretailproxy.com/sys-master-root/h26/h5d/14854127190046/507895_main.jpg_480Wx480H',
+      stock: 80,
+      description: 'Dry fried chips',
+      weight: 1,
+      measurement: 'pack',
+    },
+    {
+     // _id: '62a524648b6ea04f177868d4',
+      name: 'oreo',
+      slug: 'oreo',
+      price: 5,
+      image:
+        'https://cdnprod.mafretailproxy.com/sys-master-root/h91/h94/10067133923358/421957_main.jpg_480Wx480H',
+      stock: 40,
+      description: 'chocolate biscuit with cream',
+      weight: 4,
+      measurement: 'pcs',
+    },
+    {
+     // _id: '62a524648b6ea04f177868d5',
+      name: 'Todo Brownie',
+      slug: 'Todo Brownie',
+      price: 5,
+      image:
+        'https://edita.com.eg/wp-content/uploads/2020/06/brownie-package.png',
+      stock: 30,
+      description: 'chocolate brownie cake',
+      weight: 1,
+      measurement: 'pc',
+    },
+    {
+     // _id: '62a524648b6ea04f177868d6',
+      name: 'Molto',
+      slug: 'Molto',
+      price: 5,
+      image:
+        'https://cdnprod.mafretailproxy.com/sys-master-root/h41/hf9/12820671823902/360473_main.jpg_480Wx480H',
+      stock: 30,
+      description: 'croissant stuffed with chocolate',
+      weight: 1,
+      measurement: 'pc',
+    },
+  ],
+};
+
+export default data;
